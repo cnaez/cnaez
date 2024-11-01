@@ -1,4 +1,4 @@
-## Hello and Welcome! 👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=courier&weight=500&size=22&pause=1000&color=3D03F7&width=435&lines=Hello+and+Welcome!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 I'm Sina, a creative technologist and web developer dedicated to crafting seamless digital experiences. My expertise spans **Next.js**, **React.js**, **Javascript**, with a strong focus on scalable, performance-driven applications.
 
